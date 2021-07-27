@@ -1,0 +1,11 @@
+# Core
+Django==3.2.5
+django-filter==2.4.0
+djangorestframework==3.12.4
+Markdown==3.3.4
+channels==3.0.4
+
+# Development
+pylint
+pylint-django
+black

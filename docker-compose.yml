@@ -1,0 +1,9 @@
+version: "3.8"
+
+services: 
+    backend:
+        image: temp:develop
+    database:
+        image: bitnami/postgresql:13
+    redis:
+        image: redis:6.0-alpine
