@@ -4,8 +4,7 @@ django-filter==2.4.0
 djangorestframework==3.12.4
 Markdown==3.3.4
 channels==3.0.4
+channels-redis==3.3.0
 
-# Development
-pylint
-pylint-django
-black
+# Database
+psycopg2-binary==2.9.1
